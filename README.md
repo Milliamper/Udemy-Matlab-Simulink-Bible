@@ -2,31 +2,6 @@
 Build 10 Practical Projects and go from Beginner to Pro in Simulink with this Project-Based Simulink Course!
 
 
-- [Udemy - Matlab Simulink Bible](#udemy---matlab-simulink-bible)
-  - [PROJECT #1: Generate, Display and export soure generating sine wave](#project-1-generate-display-and-export-soure-generating-sine-wave)
-    - [Used libraries](#used-libraries)
-    - [Notes](#notes)
-  - [PROJECT #2: Build a mathematical equation (differentiation/integration) system](#project-2-build-a-mathematical-equation-differentiationintegration-system)
-    - [Used libraries](#used-libraries-1)
-  - [PROJECT #3: SIMULATE A MASS SPRING DAMPER SYSTEM IN TIME DOMAIN](#project-3-simulate-a-mass-spring-damper-system-in-time-domain)
-    - [Másodrendű differenciálegyenlet értelmezése](#másodrendű-differenciálegyenlet-értelmezése)
-      - [Fizikai jelentés](#fizikai-jelentés)
-      - [Dinamikai viselkedés](#dinamikai-viselkedés)
-      - [Példák felhasználásra](#példák-felhasználásra)
-      - [Értelmezés](#értelmezés)
-    - [Notes](#notes-1)
-    - [Simulink Model](#simulink-model)
-  - [PROJECT #4: Simulate a mass spring damper systen in S-Domain using Simulink](#project-4-simulate-a-mass-spring-damper-systen-in-s-domain-using-simulink)
-    - [Az egyenlet Laplace-transzformációval](#az-egyenlet-laplace-transzformációval)
-    - [Az egyenlet Laplace-tartományban:](#az-egyenlet-laplace-tartományban)
-    - [Végső forma:](#végső-forma)
-    - [Magyarázat:](#magyarázat)
-    - [Notes](#notes-2)
-      - [M-script:](#m-script)
-    - [Simulink Model](#simulink-model-1)
-
-
-
 ## PROJECT #1: Generate, Display and export soure generating sine wave
 ### Used libraries
 - Sinks → Scope (for data display)
